@@ -87,6 +87,7 @@ class prediction:
             #     self.log_writer.log(self.file_object,'The Prediction is :' +str(result))
             # self.log_writer.log(self.file_object,'End of Prediction')
             #print(result)
+            # try all code again
 
 
 
